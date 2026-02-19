@@ -7,3 +7,10 @@ It is designed to serve as:
 - 🏗 A governance architecture blueprint
 - 🔎 A cross-mapping foundation for ISO, AI, GRC & regulatory programs
 - ⚙️ A structured compliance engineering resource
+
+# Repository Structure
+- /frameworks
+- /standards
+- /regulations
+- /mappings
+/templates
